@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Kanishk-0171
+- 👋 Hi, I’m Kanishk
 - 👀 I’m interested in FULL-STACK DEVLOPMENT
 - 🌱 I’m currently learning REACT
 - Done with HTML, CSS, TAILWIND, JAVASCRIPT
 - Have good hand on DSA using JAVA
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on React projects
 - 📫 How to reach me? here's my email iamkanishkshaw@gmail.com
 
 <!---
