@@ -1,12 +1,21 @@
 👋 Hi, I’m Kanishk
+
 👀 I’m interested in Blockchain Development and Full-Stack Development
+
 🌱 Currently exploring Web3, Smart Contracts & Blockchain fundamentals
+
 ✅ Full-stack skills:
+
   Frontend: HTML, CSS, Tailwind, JavaScript, React
+  
   Backend: Spring Boot, Microservices
+  
   Database: SQL / DB design
+
 💡 Strong foundation in DSA using Java
+
 💞️ Open to collaborating on React, Spring Boot, and Blockchain projects
+
 📫 Reach me at: iamkanishkshaw@gmail.com
 
 <!---
