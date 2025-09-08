@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Kanishk
-- 👀 I’m interested in FULL-STACK DEVLOPMENT
-- 🌱 I’m currently learning REACT
-- Done with HTML, CSS, TAILWIND, JAVASCRIPT
-- Have good hand on DSA using JAVA
-- 💞️ I’m looking to collaborate on React projects
-- 📫 How to reach me? here's my email iamkanishkshaw@gmail.com
+👋 Hi, I’m Kanishk
+👀 I’m interested in Blockchain Development and Full-Stack Development
+🌱 Currently exploring Web3, Smart Contracts & Blockchain fundamentals
+✅ Full-stack skills:
+  Frontend: HTML, CSS, Tailwind, JavaScript, React
+  Backend: Spring Boot, Microservices
+  Database: SQL / DB design
+💡 Strong foundation in DSA using Java
+💞️ Open to collaborating on React, Spring Boot, and Blockchain projects
+📫 Reach me at: iamkanishkshaw@gmail.com
 
 <!---
 Kanishk-0171/Kanishk-0171 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
